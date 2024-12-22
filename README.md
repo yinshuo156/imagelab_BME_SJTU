@@ -1,6 +1,6 @@
 # ImageLab - [计算机辅助手术与治疗技术](https://oc.sjtu.edu.cn/courses/70195)Project
 
-*尹硕 12/22/2025 sjtu.ys@sjtu.edu.cn*
+12/22/2025 sjtu.ys@sjtu.edu.cn*
 
 ## 1. 内容说明
 
